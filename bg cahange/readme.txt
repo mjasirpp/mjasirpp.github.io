@@ -1,1 +1,1 @@
-A sample of parallax scrolling website.
+A simple parallax scrolling website.
