@@ -73,3 +73,15 @@
         background-size: 100% 100%;
     }
 }
+@media only screen and (max-width: 768px){
+    .parallax_heading{
+        font-size: 2em;
+        font-weight: 700;
+    }
+}
+@media only screen and (max-width: 480px){
+    .parallax_heading{
+        font-size: 2em;
+        font-weight: 600;
+    }
+}
